@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Câu hỏi"
+        android:icon="@drawable/baseline_question_mark_24"
+        android:id="@+id/CauHoi"/>
+    <item android:title="Gợi ý"
+        android:icon="@drawable/baseline_wb_incandescent_24"
+        android:id="@+id/GoiY"/>
+</menu>
